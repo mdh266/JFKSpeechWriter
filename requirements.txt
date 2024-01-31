@@ -2,3 +2,4 @@ tensorflow==2.9.0
 pandas==1.4.1
 google-cloud-storage==2.6.0
 beautifulsoup4==4.11.1
+jupyterlab_darkside_theme==0.1.2
